@@ -17,6 +17,7 @@ O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura ab
   "national": 47.50
 }
 ```
+
 Para baixar o arquivo completo, clique aqui.
 
 ## Como?
@@ -26,7 +27,8 @@ Para baixar o arquivo completo, clique aqui.
 
 ## Dados de entrada
 1. Diagrama eer do MYSQL.
-2. Dados para popular tabelas (insert`s)
+2. Dados para popular tabelas (inserts)
+
 Faça download clicando aqui.
 
 ## Instruções?
