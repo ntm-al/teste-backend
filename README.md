@@ -24,6 +24,11 @@ Para baixar o arquivo completo, clique aqui.
 2. Dividir pelo o total de ex-alunos.
 3. Multiplicado por 100.
 
+## Dados de entrada
+1. Diagrama eer do MYSQL.
+2. Dados para popular tabelas (insert`s)
+Faça download clicando aqui.
+
 ## Instruções?
 1. Você está livre para escolher (ou não) qualquer framework back-end.
 2. Apesar de fornecemos inserts e um modelo er para para um banco mysql, você está livre para usar outro banco, desde que você converta o dado fornecido para a sua necessidade.
