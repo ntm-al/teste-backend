@@ -2,7 +2,7 @@
 Repositório usado para o teste de back-end do Núcleo de Tecnologia Multimídia.
 
 ## O que?
-End-point em um API que gere a média de ex-alunos do SENAI que continuam estudando, por estado e a média nacional.
+End-point em um API que gere a taxa (média) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
 
 O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura abaixo:
 ```json
@@ -21,9 +21,9 @@ O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura ab
 Para baixar o arquivo completo, clique aqui.
 
 ## Como?
-1. Capturar o total de ex-alunos que estão estudando (number='a.').
-2. Dividir pelo o total de ex-alunos.
-3. Multiplicado por 100.
+1. Capture o total de ex-alunos que estão estudando (number='a.').
+2. Divida pelo o total de ex-alunos.
+3. Multiple por 100.
 
 ## Dados de entrada
 1. Diagrama eer do MYSQL.
