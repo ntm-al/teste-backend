@@ -34,9 +34,9 @@ Faça download clicando aqui.
 ## Instruções?
 1. Você está livre para escolher (ou não) qualquer framework back-end.
 2. Apesar de fornecemos inserts e um modelo er para para um banco mysql, você está livre para usar outro banco, desde que você converta o dado fornecido para a sua necessidade.
-2. Para deve subir o seu código back-end através de um forker desse repositório github ou enviar por tudo email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
-3. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
-4. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolveimento que estiver.
+3. Envie seu código back-end através de um forker desse repositório github ou enviar por tudo email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
+4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
+5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolveimento que estiver.
 
 ## Dicionario de dados
 students - É a tabela que armazenar os ex-alunos do SENAI
