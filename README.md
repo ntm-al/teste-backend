@@ -17,7 +17,7 @@ O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura ab
   "national": 47.50
 }
 ```
-Para baixar o arquivo completo, [[clique aqui](data.json)]
+[[Link para o arquivo completo](data.json)]
 
 ## Como?
 1. Capture o total de ex-alunos que estão estudando (number='a.').
@@ -27,7 +27,7 @@ Para baixar o arquivo completo, [[clique aqui](data.json)]
 ## Dados de entrada
 Arquivo SQL contendo tabelas e inserts para popular.
 
-Faça download [[clicando aqui](desafio.sql)]
+[[Link para o arquivo](desafio.sql)]
 
 ## Instruções?
 1. Você está livre para escolher (ou não) qualquer framework back-end.
