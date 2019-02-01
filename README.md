@@ -20,7 +20,7 @@ O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura ab
 [Link para o arquivo completo](data.json)
 
 ## Como?
-1. Capture o total de ex-alunos que estão estudando (number='a.').
+1. Capture o total de ex-alunos que estão estudando "Sim".
 2. Divida pelo o total de ex-alunos.
 3. Multiple por 100.
 
