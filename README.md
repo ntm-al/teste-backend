@@ -2,7 +2,7 @@
 Repositório usado para o teste de back-end do Núcleo de Tecnologia Multimídia.
 
 ## O que?
-End-point em um API que gere a taxa (média) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
+End-point em um API que gere a taxa (a partir do coeficiente) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
 
 O resultado (body) do end-point deve ser um JSON exatamente igual a estrutura abaixo:
 ```json
@@ -30,12 +30,13 @@ Arquivo SQL contendo tabelas e inserts para popular.
 [Link para o arquivo](desafio.sql)
 
 ## Instruções?
-1. Você está livre para escolher (ou não) qualquer framework e linguagem back-end.
-2. Apesar de fornecemos o sql para a criação e a população de um banco mysql, você está livre para usar outro banco, desde que você converta o dado fornecido para a sua necessidade.
-3. Adicione a esse README, instruções de como executar a sua solução.
-4. Envie seu código back-end através de um fork desse repositório github ou envie tudo por email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
-5. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
-6. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
+1. Você está livre para escolher (ou não) qualquer framework.
+2. Você não está livre para escolher a linguagem de back-end, deverá utilizar PHP.
+3. Apesar de fornecemos o sql para a criação e a população de um banco mysql, você está livre para usar outro banco, desde que você converta o dado fornecido para a sua necessidade.
+4. Adicione a esse README, instruções de como executar a sua solução.
+5. Envie seu código back-end através de um fork desse repositório github ou envie tudo por email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
+6. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
+7. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
 ## Dicionario de dados
 students - É a tabela que armazenar os ex-alunos do SENAI
