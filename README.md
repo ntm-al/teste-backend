@@ -30,12 +30,12 @@ Arquivo SQL contendo tabelas e inserts para popular.
 [Link para o arquivo](desafio.sql)
 
 ## Instruções?
-1. Você está livre para escolher (ou não) qualquer framework.
-2. Você não está livre para escolher a linguagem de back-end, deverá utilizar PHP.
+1. Você não está livre para escolher a linguagem de back-end, deverá utilizar PHP.
+2. Você está livre para escolher (ou não) qualquer framework.
 3. Apesar de fornecemos o sql para a criação e a população de um banco mysql, você está livre para usar outro banco, desde que você converta o dado fornecido para a sua necessidade.
 4. Adicione a esse README, instruções de como executar a sua solução.
 5. Envie seu código back-end através de um fork desse repositório github ou envie tudo por email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
-6. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
+6. Você tem uma semana (5 dias) para a finalização do teste, a partir da data de envio do e-mail.
 7. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
 ## Dicionario de dados
