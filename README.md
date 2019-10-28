@@ -46,3 +46,20 @@ questions - É a tabela que armazenar as perguntas que foram feitas aos alunos.
 alternatives - É a tabela que armazenar as alternativas para as perguntas que foram feitas aos alunos.
 
 answers - É a tabela que armazenar as respostas de cada aluno para cada pergunta.
+
+## Como executar a solução:
+
+### Linux
+
+Para o Linux, faça um clone deste repositório diretamente na pasta do apache2 no seu computador ou simplesmente copie para lá após baixa-la. Não há a necessidade de baixar ou instalar nenhum programa ou framework adicional, além é claro do próprio apache2 que geralmente já vem pré instalado, caso não venha utilize o comando abaixo:
+```
+sudo apt-get install apache2
+```
+
+### Windows
+
+Para o Windows é necessário se instalar o Wamp ou o Xampp para utiliza-lo como um servidor local assim como o Linux. Você pode baixar o repositório e coloca-lo na pasta do programa (Wamp/Xamp) ou caso tenha o Git instalado pode fazer um clone direto na pasta necessária (C:/wamp/www/ ou C:/xampp/htdocs)
+
+### Extra
+
+Caso não queira baixar ou instalar nada pode acessar online [aqui](http://back-end.epizy.com/students.php).
