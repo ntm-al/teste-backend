@@ -50,3 +50,9 @@ answers - É a tabela que armazenar as respostas de cada aluno para cada pergunt
 ## Teste Backend Feito com Laravel e mysql
 
 - A aplicação possui dois endpoints: /api/getStudents e /home
+- Primeiro deve ser checado se o laravel esta instalado na maquina. O laravel trabalha com o composer para manusear suas dependencias. O memso também deve estar instalado.
+- comando para instalar o laravel globalmente: composer global require laravel/installer
+- dentro do diretório(senai) rode o comando: php artisan serve.
+- na url digite http://localhost:8000 para acessar a interface.
+- na url digite http://localhost:8000/api/getStudents para visualizar a reposta JSON.
+- laravel documentation: https://laravel.com/docs/6.x
