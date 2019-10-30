@@ -46,3 +46,7 @@ questions - É a tabela que armazenar as perguntas que foram feitas aos alunos.
 alternatives - É a tabela que armazenar as alternativas para as perguntas que foram feitas aos alunos.
 
 answers - É a tabela que armazenar as respostas de cada aluno para cada pergunta.
+
+## Teste Backend Feito com Laravel e mysql
+
+- A aplicação possui dois endpoints: /api/getStudents e /home
